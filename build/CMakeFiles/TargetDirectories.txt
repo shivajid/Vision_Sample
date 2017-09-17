@@ -1,0 +1,3 @@
+/media/hdd1/vision_code/build/CMakeFiles/edit_cache.dir
+/media/hdd1/vision_code/build/CMakeFiles/rebuild_cache.dir
+/media/hdd1/vision_code/build/CMakeFiles/DisplayImage.dir
